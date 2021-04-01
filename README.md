@@ -26,5 +26,5 @@ After running as much consumers as you want, you can go and start sending messag
 
 Like this 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jhonatansilva31415/basic-message-system-rabbitmq/blob/main/docs/img/sending_messages.png)
 
